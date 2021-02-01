@@ -1,0 +1,7 @@
+{
+  "name": "scan-debug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
